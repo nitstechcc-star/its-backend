@@ -23,9 +23,9 @@ MIDDLEWARE = [
 ]
 
 
-"""CORS_ALLOW_ORIGINS = [
-    'https://localhost:5173',
-]"""
+CORS_ALLOW_ORIGINS = [
+    'https://its-9hb2.onrender.com',
+]
 
 STORAGES = {
     'default': {
